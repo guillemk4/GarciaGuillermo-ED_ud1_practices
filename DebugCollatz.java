@@ -6,7 +6,7 @@ import java.util.Scanner;
 /*
  * El resultat de l'operació de collatz
  * per a N = 27 després de 12 iteracions
- * és ????
+ * és 322
  */
 
 public class DebugCollatz {
