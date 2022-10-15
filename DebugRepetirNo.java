@@ -1,4 +1,4 @@
-package ud1.practices;
+package ud1.exercises;
 
 public class DebugRepetirNo {
     public static void main(String[] args) {
