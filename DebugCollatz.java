@@ -1,4 +1,4 @@
-package ud1.practices;
+package ud1.exercises;
 
 import java.util.Locale;
 import java.util.Scanner;
