@@ -7,7 +7,7 @@ public class DebugVariables {
     //la variable string se utiliza para representar una cadena
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in).useLocale(Locale.US);
-        //scaner hacer la funcion de leer lo que se muestra en pantalla
+        //scaner hace la funcion de poder escribir con el teclado una vez ejecutado el codigo
         System.out.print("Introdueix el primer número: ");
         int a = in.nextInt();
         //El las dos variables print se utilizan para mostran en pantalla el texto que les procede
